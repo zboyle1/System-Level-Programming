@@ -1,0 +1,51 @@
+﻿   56  pwd
+   57  ls /home/zboyle1/public
+   58  cd /home/zboye1/public
+   59  cd /home/zboyle1/public
+   60  rm /home/zboyle1/Lab2_P2/RealEstate.csv
+   61  rm /home/zboyle1/Lab2_P2
+   62  rmdir /home/zboyle1/Lab2_P2
+   63  rmdir /home/zboyle1/public
+   64  rm /home/zboyle1/public/myRealEstate,csv
+   65  rm /home/zboyle1/public/myRealEstate.csv
+   66  rmdir /home/zboyle1/public
+   67  pwd
+   68  cd /home/zboyle1
+   69  ls
+   70  pwd
+   71  mkdir Lab2_P2
+   72  ls
+   73  cd Lab2_P2
+   74  pwd
+   75  cp/home/bbello1/public/RealEstate.csv .
+   76  cp /home/bbello1/public/RealEstate.csv .
+   77  cp /home/bbello1/public/Real Estate.csv .
+   78  cp /home/bbello1/public/RealEstate.csv .
+   79  ls
+   80  cd /home/zboyle1/Lab2_P2
+   81  cp /home/bbello1/public/RealEstate.csv .
+   82  cd /home/zboyle1/Lab2_P2
+   83  cp /home/bbello1/public/RealEstate.csv .
+   84  ls
+   85  cat RealEstate.csv
+   86  head -n 3 RealEstate.csv
+   87  wc -l RealEstate.csv
+   88  cat -n RealEstate.csv
+   89  mkdir /home/zboyle1/public/
+   90  cp -i RealEstate.csv /home/zboyle1/public/myRealEstate.csv
+   91  pwd
+   92  ls /home/zboyle1/public
+   93  cd /home/zboyle1/public
+   94  mkdir -p Regular Submission/Lab2/ Submission/Lab3
+   95  mv Regular Others
+   96  cp /home/zboyle1/Lab2_P2 Lab2
+   97  rmdir /home/zboyle1/Lab2_P2
+   98  ls Submission Lab2
+   99  ls Submission/Lab2
+  100  cp -r /home/zboyle1/Lab2_P2 Submission/Lab2
+  101  ls Submission/Lab2
+  102  rmdir -r Lab2_P2
+  103  rm -r /home/zboyle1/Lab2_P2
+  104  history
+  105  man history
+  106  history
